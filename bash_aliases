@@ -1,0 +1,8 @@
+alias ll='ls -lhrt'
+alias less='less -N'
+alias vim='vim -p'
+alias gc='git commit -am'
+alias gd='git diff'
+alias gl='git pull'
+alias gp='git push'
+alias gs='git status'
